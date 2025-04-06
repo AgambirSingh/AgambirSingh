@@ -11,7 +11,7 @@ I'm a passionate 2nd-year Software Development student at Sheridan College with 
 ## 🚀 About Me
 
 - **Student & Builder:** Currently pursuing a Software Development degree and actively building projects that make an impact.
-- **Founder of [SherLife(https://sherlife.tech/resources)]:** A student platform tackling housing & community challenges.
+- **Founder of [SherLife](https://sherlife.tech/landing): A student platform tackling housing & community challenges.
 - **Creator of GenGuess:** A Flask-based generational speech detector leveraging word analysis.
 - **Former SWE Intern @ Outlier:** Focused on AI prompt tuning using TensorFlow & Python.
 - **CS50P Certified:** Proficient in Python, problem-solving, and debugging.
