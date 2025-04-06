@@ -21,8 +21,6 @@ I'm a passionate 2nd-year Software Development student at Sheridan College with 
 
 ## 🛠️ Skills & Technologies
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AgambirSingh&count_private=true&theme=radical)
-
 - **Languages:** Python, JavaScript, Java, C++
 - **Web Development:** React, Node.js, Express, HTML, CSS
 - **Databases:** MongoDB, MySQL, PostgreSQL
