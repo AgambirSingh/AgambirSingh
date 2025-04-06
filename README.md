@@ -1,20 +1,70 @@
-<h1 align="center">Hi 👋, I'm Agambir Singh</h1>
-<h3 align="center">A passionate newcomer to Canada ready to disrupt the tech industry</h3>
+<!--
+Hi there, I'm Agambir Singh Batth (call me Agam) 👋
+-->
 
-- 🔭 I’m currently working on [SherLife](https://github.com/AgambirSingh/SherLife)
+# Hi, I'm Agambir Singh (Agam) 🇨🇦
 
-- 🌱 I’m currently learning **Panda, numpy, Tensorflow**
+I'm a passionate 2nd-year Software Development student at Sheridan College with a drive for building innovative solutions and community platforms. I love creating projects that solve real-world problems and push the boundaries of technology, especially in Software Engineering and Machine Learning.
 
-- 👯 I’m looking to collaborate on [Gen-Guesser](https://github.com/AgambirSingh/Gen-Guesser)
+---
 
-- 📫 How to reach me **sinagamb@sheridancollege.ca**
+## 🚀 About Me
 
-- ⚡ Fun fact **I was a Basketball coach**
+- **Student & Builder:** Currently pursuing a Software Development degree and actively building projects that make an impact.
+- **Founder of SherLife:** A student platform tackling housing & community challenges.
+- **Creator of GenGuess:** A Flask-based generational speech detector leveraging word analysis.
+- **Former SWE Intern @ Outlier:** Focused on AI prompt tuning using TensorFlow & Python.
+- **CS50P Certified:** Proficient in Python, problem-solving, and debugging.
+- **Leadership & Teamwork:** Director at Sheridan Student Union and a 4x Basketball Champion (1x athlete, 3x coach).
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/agambir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agambir" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🛠️ Skills & Technologies
+
+![GitHub language stats](https://img.shields.io/github/languages/top/AgambirSingh?style=flat-square)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AgambirSingh&count_private=true&theme=radical)
+
+- **Languages:** Python, JavaScript, Java, C++
+- **Web Development:** React, Node.js, Express, HTML, CSS
+- **Databases:** MongoDB, MySQL, PostgreSQL
+- **DevOps & Tools:** Docker, Kubernetes, GitHub Actions, Git, VS Code, Postman, JIRA
+- **ML & AI:** TensorFlow, NLP, AI Prompt Tuning
+
+---
+
+## 📂 Projects
+
+### [SherLife](https://github.com/AgambirSingh/SherLife)
+A comprehensive student platform addressing housing and community challenges at Sheridan College.
+
+### [GenGuess](https://github.com/AgambirSingh/Gen-Guesser)
+A Flask-based web application that detects generational slang through word analysis.
+
+### [BearHacks](https://github.com/AgambirSingh/BearHacks)
+A platform focusing on legal smart contracts and providing tools and resources for hackathons.
+
+### [CanWork](https://github.com/AgambirSingh/CanWork)
+A project aimed at creating a comprehensive platform for job seekers and employers to connect and collaborate.
+
+---
+
+## 🎯 Goals & Interests
+
+I’m actively seeking SWE/ML internships or co-op opportunities for Summer 2025. I'm particularly interested in:
+- **Startups & Innovation:** Building products that disrupt the norm.
+- **Community Building:** Empowering students and tech communities.
+- **AI & Machine Learning:** Exploring new frontiers in intelligent systems.
+
+---
+
+## 🤝 Let's Connect
+
+- **LinkedIn:** [Agambir Singh Batth](https://www.linkedin.com/in/agambirsingh/)
+- **Personal Website:** [yourwebsite.com](https://yourwebsite.com)  
+- **Email:** [agambir.singh@example.com](mailto:agambir.singh@example.com)
+
+---
+
+> "I believe in leveraging technology to build communities and drive change." 
+
+<!-- Feel free to reach out if you share a passion for innovation or want to collaborate on cutting-edge projects! -->
